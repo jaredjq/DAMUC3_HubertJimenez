@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DAM_UC3_HubertJimenez</string>
+    <string name="correo">corrreo electronico:</string>
+    <string name="contraseña">contraseña:</string>
+    <string name="Registro">Regístrate</string>
+    <string name="comentario">Es gratis (y lo seguirá siendo)</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Apellidos">Apellidos:</string>
+    <string name="direccion_c_e">Tu direccion de\ncorreo electronico:</string>
+    <string name="contraseña_nueva">Contraseña\nnueva:</string>
+    <string name="Sexo">Sexo:</string>
+    <string name="Fechadenac">Fecha de\nnacimiento:</string>
+    <string name="info">Por qué tengo que dar esta información?</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_registrate">Regístrate</string>
+    <string name="coment2">Crear una pagína para un famoso, grupo de musica o empresa.</string>
+    <string name="caja_nombre" />
+    <string name="caja_apellidos" />
+    <string name="check_hombre">Hombre</string>
+    <string name="check_mujer">Mujer</string>
+    <string name="info3">Has olvidado tu contraseña?</string>
+    <string name="check_cerrarsesion">No cerrar sesión</string>
+</resources>
